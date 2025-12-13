@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kanojiapriyanshi15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RNsBRkYTrNtvO-tWk_1oZLaiBBxFOgej/view?usp=sharing](https://drive.google.com/file/d/1RNsBRkYTrNtvO-tWk_1oZLaiBBxFOgej/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RNsBRkYTrNtvO-tWk_1oZLaiBBxFOgej/view?usp=sharing](https://drive.google.com/file/d/1OeK4s39i2vEgPOjyFFETOj6T7VP1QNpw/view?usp=sharing)
 
 ### Tech Stack 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
