@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Kanojia</h1>
 <h3 align="center">A passionate Software Developer from India Looking for oppertunities</h3>
 
-- 🌱 I’m currently learning **React,DSA With JAVA**
+- 🌱 I’m currently learning **React,DSA With JAVA, Selenium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshi-Kanojia-15](https://github.com/shivamshrivaastava)
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **kanojiapriyanshi15@gmail.com**
 
-//- 📄 Know about my experiences [https://drive.google.com/file/d/1RNsBRkYTrNtvO-tWk_1oZLaiBBxFOgej/view?usp=sharing](https://drive.google.com/file/d/1OeK4s39i2vEgPOjyFFETOj6T7VP1QNpw/view?usp=sharing)
 
 ### Tech Stack 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
